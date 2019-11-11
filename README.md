@@ -25,9 +25,6 @@
 ## Kỹ năng:
  * Có kỹ năng sử dụng UIKit, Stevia, SwiftJson...
  * Có kỹ năng thiết kế UI/UX trên phần mềm SketchApp
- 
-## Chứng chỉ:
- 
 
 ## Hoạt động:
  * Tìm hiểu về cách thức Hackintosh
