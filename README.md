@@ -18,7 +18,7 @@
   * Code: [http://bit.ly/2K8pYiL](http://bit.ly/2K8pYiL)
   * Video Demo:  [http://bit.ly/2pxgFBi](http://bit.ly/2pxgFBi)
   
-  **Lập trình App Music**
+  **Lập trình App Music** (chưa hoàn chỉnh)
   * Công nghệ sử dụng: Ngôn ngữ Swift 4, python3
   * Code: [http://bit.ly/2Q4XKcl](http://bit.ly/2Q4XKcl)
  
