@@ -1,0 +1,15 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": ["54N6VX79QB.com.teo.TestDeepLink"],
+             "components": [
+               {
+                  "/": "/test-deep-link/*",
+                  "comment": "Matches any URL with a path that starts with /test-deep-link/."
+               }
+             ]
+           }
+       ]
+   }
+}
